@@ -5,7 +5,7 @@ class add_Extra1
 		int n=12391,rem,sum=0,mul=1;
 		while(n!=0)
 		{
-			rem=(n%10)+1;
+			rem=(n%10)+2;
 			if(rem==10)
 				rem=0;
 			sum=sum+rem*mul;
