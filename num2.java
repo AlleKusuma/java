@@ -10,12 +10,12 @@ class num2
 			{
 				if(j%2!=0)
 				{
-					System.out.print(k+" ");
+					System.out.print(k+"alle kusuma ");
 					k+=10;
 				}
 				else
 				{
-					System.out.println(k+"");
+					System.out.println(k+"kusuma");
 					k+=9;
 				}
 			}
